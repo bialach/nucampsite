@@ -10,9 +10,5 @@ $(function() {
             $("#carouselButton").children("i").removeClass("fa-play");
             $("#carouselButton").children("i").addClass("fa-pause");
         }
-/*                     $(".carousel").carousel("pause"); */
     });
-/*                 $("#carouselPlay").click(function() {
-        $(".carousel").carousel("cycle");
-    }); */
 });
