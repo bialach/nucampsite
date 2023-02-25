@@ -7,7 +7,7 @@ h1, h2, h3 {
 h2 {
   color: #3046C5; }
 
-header h2 h2 {
+header h2 {
   color: #CEC8FF; }
 
 .site-footer {
@@ -48,3 +48,11 @@ a, a:hover {
   right: 0;
   bottom: 0;
   z-index: 100; }
+
+#reserveModal .modal-header {
+  background-color: #17A2BB;
+  color: white; }
+
+#loginModal .modal-header {
+  background-color: #901CAD;
+  color: white; }
